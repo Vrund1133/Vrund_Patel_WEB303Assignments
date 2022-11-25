@@ -1,0 +1,44 @@
+[
+
+    {
+        "firstName": "Clark",
+        "lastName": "Kent",
+        "powerLevel": "6144567",
+        "birthdate": "1988-10-19",
+        "gender": "Male",
+        "role": "Superman"
+    },
+    {
+        "firstName": "Barry",
+        "lastName": "Allen",
+        "powerLevel": "5367",
+        "birthdate": "2000-11-17",
+        "gender": "Male",
+        "role": "Flash"
+    },
+    {
+        "firstName": "Diana",
+        "lastName": "Prince",
+        "powerLevel": "44567",
+        "birthdate": "1819-7-13",
+        "gender": "Female",
+        "role": "Wonder Women"
+    },
+    {
+        "firstName": "Bruce",
+        "lastName": "Wayne",
+        "powerLevel": "34577",
+        "birthdate": "1972-4-23",
+        "gender": "Male",
+        "role": "Batman"
+    },
+    {
+        "firstName": "Arthur",
+        "lastName": "Curry",
+        "powerLevel": "33567",
+        "birthdate": "1975-11-23",
+        "gender": "Male",
+        "role": "Aquaman"
+    }
+]
+
